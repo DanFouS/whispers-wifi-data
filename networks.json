@@ -1,0 +1,22 @@
+[
+  {
+    "ssid": "WIFI-NEON-01",
+    "hint": "Decode the signal below",
+    "puzzleType": "text_code",
+    "puzzleData": "XIFJ QEB NRFZH YOLTK CLU GRJMP LSBO QEB IXWV ALD",
+    "solution": "JUMPED",
+    "unlocked": true,
+    "premium": false
+  },
+  {
+    "ssid": "WIFI-GHOST-88",
+    "hint": "Listen to the whisper...",
+    "puzzleType": "audio",
+    "audioClips": [
+      "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+    ],
+    "solution": "WHISPER",
+    "unlocked": false,
+    "premium": true
+  }
+]
